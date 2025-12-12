@@ -1,0 +1,57 @@
+name: 搜索并更新 IPTV URL
+
+on:
+  push:
+    paths:
+      - 'search_github_urls.py'
+      - '.github/workflows/search_github_urls.yml'
+      - 'config/urls.txt'
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */6 * * *'
+
+env:
+  TZ: Asia/Shanghai 
+  
+jobs:
+  search_and_update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: 📦 Checkout repository (v4)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 🐍 Set up Python (v5)
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: ⚙️ Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests pyyaml aiohttp tqdm
+
+      - name: 📂 Create config directory
+        run: |
+          mkdir -p config
+          
+      - name: 🏃 Run search script
+        id: run_script
+        env:
+          BOT: ${{ secrets.BOT }}
+        run: |
+          python search_github_urls.py
+      
+      # *** 修复步骤：添加 push_options: --force ***
+      - name: 💾 Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          file_pattern: config/urls.txt
+          commit_message: "✨ feat: Auto discovered new .m3u8 IPTV URLs"
+          branch: ${{ github.ref_name }}
+          skip_dirty_check: false
+          # 【新增】强制推送，解决非快进式推送被拒绝的错误
+          push_options: --force

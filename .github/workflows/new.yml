@@ -1,0 +1,60 @@
+name: itvlist
+
+on:
+  # 允许在 GitHub UI 界面上进行手动触发
+  workflow_dispatch: 
+  
+  # 每日定时运行 (UTC 时间)
+  schedule:
+    # 每日 UTC 9点和 21点 (北京时间 17:00 和 次日 5:00)
+    - cron: '0 9,21 * * *'   
+    # 每日 UTC 10点 (北京时间 18:00)
+    - cron: '0 10 * * *'     
+    
+  # main 分支推送时自动运行
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    # runs-on: ubuntu-22.04@20240422.1.0 # 保持您的原有注释
+    
+    # 设置上海时区，以便在日志中显示正确的时间
+    env:
+      TZ: Asia/Shanghai
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4 # 推荐更新到 v4
+    
+      - name: Set up Python
+        uses: actions/setup-python@v5 # 推荐更新到 v5
+        with:
+          python-version: '3.12.3'
+
+      - name: Install dependencies
+        run: pip install selenium requests futures eventlet aiohttp aiofiles
+
+ 
+
+      - name: Run cctv
+        run: python ${{ github.workspace }}/new.py
+
+      - name: Add Custom Channels
+        run: |
+          cat szdf.txt >> itvlist.txt  # 追加多个直播源
+        
+      #- name: Run weishi # 保持您的原有注释
+      #  run: python ${{ github.workspace }}/weishi.py
+                
+      - name: 提交更改
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          # 确保有更改时才提交
+          git add .
+          git commit -m "Auto: Update generated files" || echo "No changes to commit"
+          # 使用 push -f 可能会覆盖其他提交，如果可以，建议使用 git push
+          git push

@@ -1,0 +1,57 @@
+一频道,#genre#
+有線新聞台|有線新聞|香港有線新聞
+TVBS新闻|TVBS新闻G|TVBS新闻S|TVBS新闻[1280*720]|TVBS新闻台
+TVBS新闻國際
+TVBS新闻歡樂
+TVBS新闻精彩
+TVBS新闻闽南
+TVB娱乐新闻|TVB娱乐新闻[1280*720]|[]TVB娱乐新闻
+TVB新闻|TVB新闻[1280*720]|TVB新闻台|[]TVBS新闻_news|[]TVBS新闻_asia_*wj
+TVB星河|星河台
+有線綜合娛樂台|有線娛樂
+有線財經資訊台|有線財經|無線財經資訊|香港有線財經資訊
+明珠台|明珠台(1)
+凤凰香港|鳳凰衛視香港|凤凰卫视香港台|鳳凰衛視香港台|[BD]凤凰中文香港|[BD]凤凰香港|凤凰香港频国|凤凰香港频备
+凤凰中文|鳯凰衛視中文|凤凰卫视中文台|鳳凰衛視中文台|Phoenix Chinese
+凤凰资讯|鳯凰衛視資訊|凤凰卫视资讯台|鳳凰衛視資訊台|[BD]凤凰中文资讯
+澳门有线1
+澳门有线2
+澳门有线3
+澳视资讯
+澳视澳门
+澳門Macau
+澳門互動新聞台
+港台电视31|港台电视31台
+港台电视32|港台电视32台|港台電視 32|港视32台
+民视新闻|民视新闻 HD|民视新闻 hd|民视新闻(5G)|民视新闻@@4[320x240][20240404]|民视新闻台|民视新聞台(５３|民视新聞|民视|民视(６|民视台灣台(１５２
+東森新聞
+二频道,#genre#
+年代新聞|Era News
+寰宇新闻|寰宇新闻
+壹新闻|[BD]壹新闻|One News
+八大第一|Eight First
+八大戏剧|八大戏剧台|Eight Drama
+八大综合|Eight General
+八度空间|8TV
+东森超视|超视|
+東風衛視|East Wind TV
+東森財經|Eastson Finance
+東森戲劇|Eastson Drama
+東森幼幼|Eastson Kids
+非凡商業|Fantastic Business
+非凡新聞|Fantastic News
+
+三|Public TV
+韓國娛樂台|Korea Entertainment
+华丽台|Astro華麗台|Astro華麗台[1280*720]|Astro Hua Li
+华视|CTV
+鏡電視新聞台|Mirror News
+新加坡频道,#genre#
+新加坡CNA|CNA新闻|亚洲新闻|亚洲新闻720P|亚洲新闻1080P|亚洲新闻台(新加坡)|ChannelNewsAsia|ChannelNewsAsia『蓝光』|CNA|[]亚洲新闻|新 | CNA亞洲新聞台|新马|亚洲新闻|新马亚洲新闻|新马 Ⅰ 亚洲新闻
+
+四频道,#genre#
+韩Arirang|韩国 Ⅰ ArirangWORLD|韩国 Ⅰ ArirangWORLDworld|
+
+五频道,#genre#
+美亚电影|美亞電影台|美亞電影台(HK)|美亞電影台(２３７
+探索亚洲|Discovery Asia

@@ -1,0 +1,91 @@
+name: '📺 TVBox 配置验证与合并'
+
+on:
+  # 1. 允许手动运行工作流
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: '手动运行原因'
+        required: false
+        default: '手动触发 TVBox 配置验证与合并。'
+  
+  # 2. 自动运行：当以下文件变动并推送到 main/master 分支时触发
+  push:
+    branches:
+      - main  # 根据您的默认分支调整，可能是 master
+      - master
+    paths:
+      - 'box/**.json'        # box 目录下的 JSON 文件变动
+      - 'check_and_merge.py' # 脚本文件变动
+      - '.github/workflows/tvbox_validator.yml' # 工作流文件变动
+
+# 确保同时只有一个作业运行，防止 git 提交冲突
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  validate_and_merge:
+    # 设定运行环境
+    runs-on: ubuntu-latest
+    
+    steps:
+      # 1. 使用 Shell 命令设置时区为上海 (UTC+8)
+      - name: 设置时区为亚洲/上海 (Shanghai Timezone)
+        run: |
+          sudo timedatectl set-timezone Asia/Shanghai
+          echo "TZ=Asia/Shanghai" >> $GITHUB_ENV # 设置环境变量以影响后续步骤
+          
+      # 2. 检出仓库代码 (fetch-depth: 0 以获取完整历史，用于后续推送)
+      - name: 检出仓库
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          
+      # 3. 设置 Python 环境
+      - name: 设置 Python 3.x
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      # 4. 安装 Python 依赖 (requests)
+      - name: 安装 requests 库
+        run: pip install requests
+        
+      # 5. 执行验证和合并脚本
+      - name: 运行配置验证与合并脚本
+        run: python check_and_merge.py
+        
+      # 6. 配置 Git 身份
+      - name: 配置 Git 提交者
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+
+      # 7. 提交并推送结果文件
+      - name: 提交并推送合并后的配置
+        run: |
+          # 检查生成的文件是否存在
+          if [ ! -f merged_tvbox_config.json ]; then
+            echo "错误：未找到生成的 merged_tvbox_config.json 文件，跳过提交。"
+            exit 1
+          fi
+
+          # 添加生成的文件
+          git add merged_tvbox_config.json
+          
+          # 检查是否有实际改动 (如果文件内容没有变化，则不进行提交)
+          if git diff --staged --exit-code; then
+            echo "merged_tvbox_config.json 文件内容无变化，跳过提交。"
+            exit 0
+          else
+            # 使用上海时间生成提交信息
+            # 使用 $TZ 环境变量确保时间正确
+            COMMIT_TIME=$(date '+%Y-%m-%d %H:%M:%S') 
+            COMMIT_MESSAGE="🤖 自动合并与验证 TVBox 配置 @ ${COMMIT_TIME} (Shanghai)"
+            
+            git commit -m "$COMMIT_MESSAGE"
+            echo "正在提交并推送 changes..."
+            # 使用 token 推送，确保权限
+            git push
+          fi

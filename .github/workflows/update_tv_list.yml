@@ -1,0 +1,65 @@
+name: 📺 Update TV List from URLs
+
+on:
+  # 允许手动触发工作流
+  workflow_dispatch:
+
+  # 当以下文件路径有变动时，自动触发工作流
+  push:
+    paths:
+      - 'config/urls.txt'
+      - 'scripts/update_list.py'
+      - '.github/workflows/update_tv_list.yml'
+
+jobs:
+  update-list:
+    runs-on: ubuntu-latest
+    
+    # 设置时区为上海 (Asia/Shanghai)
+    env:
+      TZ: Asia/Shanghai
+
+    steps:
+      - name: ⬇️ Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          # 必须获取完整历史记录，以便进行后续的 Git 推送
+          fetch-depth: 0
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: 🛠️ Install dependencies (requests for HTTP fetching)
+        run: pip install requests
+
+      - name: ⚙️ Run Update Script and Save Output
+        # 脚本将读取 urls.txt，下载内容，去重，并保存到 output/tv_list.m3u 和 output/tv_list.txt
+        run: |
+          mkdir -p output
+          python scripts/update_list.py
+
+      - name: 🚀 Commit and Push changes
+        # 检查是否有文件变化，如果有，则提交并推送
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # 尝试添加所有 output 目录下的文件
+          git add output/tv_list.m3u output/tv_list.txt
+          
+          # 检查暂存区是否有任何变化（--porcelain 用于机器可读的输出）
+          if git status --porcelain | grep 'output/'; then
+            echo "Changes found in output directory. Committing and Pushing..."
+            git commit -m "🤖 Auto-update TV list from URLs (Run ${{ github.run_number }})"
+            
+            # 【Git 修复】：在推送前先拉取远程的最新更改，防止“rejected (fetch first)”错误
+            # 使用 --rebase 保持提交历史干净整洁
+            git pull --rebase origin main
+            
+            # 推送本地的提交
+            git push
+          else
+            echo "No changes in output directory. Skipping commit."
+          fi

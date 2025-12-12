@@ -1,0 +1,66 @@
+name: 🔬 TV List Link Check (链接有效性测试)
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'scripts/check_and_clean.py'       # 测试脚本变动时
+      - '.github/workflows/check_list.yml' # 工作流文件变动时
+  schedule:
+    # 每天 12:00 运行一次 (UTC时间 04:00，即上海时间 12:00)
+    - cron: '0 4 * * *'
+  workflow_dispatch: # 手动运行
+
+jobs:
+  check-list:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Shanghai # 设置时区为上海
+    permissions:
+      contents: write # 授予写入权限以推送结果
+
+    steps:
+      - name: ⬇️ Checkout 仓库代码
+        uses: actions/checkout@v4
+
+      - name: 🐍 设置 Python 环境
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: 📦 安装 Python 依赖 (requests)
+        run: pip install requests
+
+      - name: 🔬 运行频道有效性测试和清理脚本 (check_and_clean.py)
+        # 此步骤将执行耗时的链接测试，并生成最终的有效列表文件
+        run: python scripts/check_and_clean.py
+
+      - name: 🔍 检查文件变化并配置 Git
+        id: git-check
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # 暂存最终的有效列表文件
+          git add output/final_valid_list.m3u output/final_valid_list.txt
+          
+          # 检查是否有实际变化
+          if git diff --staged --quiet; then
+            echo "status=no_change" >> $GITHUB_OUTPUT
+          else
+            echo "status=changed" >> $GITHUB_OUTPUT
+          fi
+
+      - name: ⬆️ 提交并推送有效的频道列表到仓库
+        if: steps.git-check.outputs.status == 'changed'
+        run: |
+          # 提交更改到本地仓库
+          git commit -m "🤖 Auto-update final valid TV list (Run ${{ github.run_number }})"
+          
+          # 解决推送冲突: 先拉取远程最新更改并尝试合并 (rebase)
+          # 这可以确保提交历史是线性的，避免合并冲突导致的推送拒绝
+          git pull --rebase origin main
+          
+          # 再次尝试推送
+          git push
