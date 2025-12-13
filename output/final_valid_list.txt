@@ -119,6 +119,7 @@ CCTV10,http://218.17.33.178:53290/tsfile/live/1010_1.m3u8?key=txiptv
 CCTV11,http://113.25.252.226:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13,http://112.27.235.94:8000/hls/14/index.m3u8
 CCTV15,http://218.17.33.178:53290/tsfile/live/1015_1.m3u8?key=txiptv
+CCTV2,http://153.0.171.163:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://61.184.46.85:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+,http://218.17.33.178:53290/tsfile/live/1005_1.m3u8?key=txiptv
 CCTV9,http://218.17.33.178:53290/tsfile/live/1009_1.m3u8?key=txiptv
@@ -297,6 +298,7 @@ MySports 9 HD,http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/79.ts?checkedb
 MyTime Movie Network,https://mytime-tcl.amagi.tv/playlist.m3u8
 Mysports 3 HD,http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/16799.ts?checkedby:iptvcat.com
 Myzen TV [Geo-blocked],https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungit/playlist.m3u8
+NEA,https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
 NHK World - CTV - CABA TV Cable - CD Cd Aut Bs As,http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0025
 Naftemporiki TV,https://stream-188125.castr.net/631af9c016e5eace19ff9a5b/live_048998706a2311ee83b33fe7fbad252d/index.fmp4.m3u8
 Net TV,https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
@@ -305,7 +307,6 @@ Nolly Africa [Geo-blocked],https://amg02784-nollyafricafast-amg02784c1-cineverse
 Nosey,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00514-noseybaxterllc-noseyintlnz-samsungnz/playlist.m3u8
 Nosotros Los Nobles |,https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
 Nubar Sport HD,http://stream.nubar.tv:1935/private/NUBARSport/HawezHD.m3u8
-Nusantara TV,https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 ODTV 2,https://v4.tustreaming.cl:443/odtv2/index.m3u8
 OMAN SPORT,https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 Oman Sport HD,https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
@@ -332,10 +333,12 @@ Polsat Sport HD,http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SArlcfOavy1
 Polsat Sport Premium 1 FHD,http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SBINpIjbypBpXHkjRDhs7Ks/ts?checkedby:iptvcat.com
 Polsat Sport Premium 1 SD,http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SJC4w-E6yzRvHAcO8vFP5_c/ts?checkedby:iptvcat.com
 Polsat Sport Premium 2,http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SKVyWQaJWg2L05-KiEvcpaBpryoPyRhMRDVaUO3IzIEV/ts?checkedby:iptvcat.com
+Popular TV Melilla,https://5940924978228.streamlock.net/8009/8009/master.m3u8
 Press TV,https://live.presstv.ir/hls/presstv.m3u8
 Promar TV,http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
 Puls 8 HD,http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/2078.ts?checkedby:iptvcat.com
 Pura Palabra (Puerto Rico),https://59825a54e4454.streamlock.net:8443/william233/william233/chunklist_w2112770980.m3u8
+Quilmes Visión - 29 TV - Quilmes - GB Gran Bs As,http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0067
 Qwest TV Jazz & Beyond (720p) [Geo-blocked],https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8
 RAI SPORT 2 HD,http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/54228?checkedby:iptvcat.com
 RAI SPORT HD,http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/54230?checkedby:iptvcat.com
@@ -422,6 +425,7 @@ Sandy Wexler,http://cecegeek@goo.gl/kyH56Z
 Sarjah Sport,http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/33387
 Sharjah Sports,https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8?checkedby:iptvcat.com
 Sharjeh Sport HD,https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8
+Sipse TV Cancun (México),https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 Skai TV Ⓖ,https://skai-live.siliconweb.com/media/cambria4/index.m3u8
 Sky News Arabia,https://stream.skynewsarabia.com/hls/sna_720.m3u8
 Sky Sport Collection FHD,http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/53338?checkedby:iptvcat.com
@@ -588,10 +592,8 @@ type="stream"  title="MUSICA" - RETRO Music Television,http://stream.mediawork.c
 |FR|Canal Local Grosbliederstroff,https://live.creacast.com/canallocalgrosblie-ch1/smil:canallocalgrosblie-ch1.smil/playlist.m3u8
 |FR|Cannes Lérins TV,https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
 |FR|DCM TV,https://vdo.pro-fhi.net:3060/stream/play.m3u8
-|FR|IL TV,https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
 |FR|Le Figaro TV [IdF],https://static.lefigaro.fr/secom/tnt.m3u8
 |FR|Ma Télé,https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
-|FR|Mirabelle TV,https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
 |FR|TV Tours-Val-de-Loire,https://lives.digiteka.com/stream/920f083a-9e61-4c09-9bc2-bdb664063aa9/index.m3u8
 |FR|TV3V,https://tv3v.live-kd.com/live/tv3v/livestream/playlist.m3u8
 |FR|TV7 [Colmar],http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
@@ -601,6 +603,7 @@ type="stream"  title="MUSICA" - RETRO Music Television,http://stream.mediawork.c
 |FR|Wéo [La Voix du Nord],https://lives.digiteka.com/stream/c58028c2-a58b-4526-9ec8-389cad4a71e8/index.m3u8
 |FR|Wéo [Le Courrier Picard],https://lives.digiteka.com/stream/bbb843db-8540-4156-98a5-b7c85da54d8e/index.m3u8
 |GP|TMA Caraïbes,http://hls.tmacaraibes.com/live/index.m3u8
+|GP|Teveka (Marie-Galante),https://www.teveka.net:8443/show/teveka/index.m3u8
 |GP|Éclair TV (ETV),https://etvgp.vedge.infomaniak.com/livecast/etvgp/manifest.m3u8
 |LU|Apart TV,https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8
 |LU|Chamber TV,https://media02.webtvlive.eu/chd-edge/smil:chamber_tv_hd.smil/playlist.m3u8
@@ -625,27 +628,20 @@ type="stream"  title="MUSICA" - RETRO Music Television,http://stream.mediawork.c
 Новое,https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
 Радио Шансон,http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 Страна FM,http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+Шансон-ТВ,http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 上海道与中心路交口,http://traffic.jbh.tjbh.com/live/shd.stream/playlist.m3u8
 上海道与和平路交口,http://traffic.jbh.tjbh.com/live/shdwt.stream/playlist.m3u8
-东南卫视,http://112.123.243.37:50085/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
 中央大道与新港三号路交口,http://traffic.jbh.tjbh.com/live/zydd.stream/playlist.m3u8
 中心路地道,http://traffic.jbh.tjbh.com/live/zxldd.stream/playlist.m3u8
-云南卫视,http://112.123.243.37:50085/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
 五星体育,https://cdn3.163189.xyz/163189/wxty
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-兵团卫视,http://112.123.243.37:50085/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
-内蒙古卫视,http://112.123.243.37:50085/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
 凤凰中文,http://183.237.95.108:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=0&authid=0
-吉林卫视,http://112.123.243.37:50085/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
-四川卫视,http://112.123.243.37:50085/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
 大连道,http://traffic.jbh.tjbh.com/live/dld.stream/playlist.m3u8
-天津卫视,http://153.0.171.163:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-宁夏卫视,http://112.123.243.37:50085/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
 安徽卫视,http://112.132.10.54:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
 山东卫视,http://218.17.33.178:53290/tsfile/live/0131_1.m3u8?key=txiptv
 山西卫视,http://101.66.198.176:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
 广东卫视,http://112.27.235.94:8000/hls/30/index.m3u8
-广西卫视,http://112.123.243.37:50085/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
+广东珠江,https://stream1.freetv.fun/ad8dcd9cca87071079d7e882cb080770a762f51e3f2fa0cf243b30c2ee09da5b.ctv
 怀旧剧场,http://61.184.46.85:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 新华路立交桥,http://traffic.jbh.tjbh.com/live/xhlljq.stream/playlist.m3u8
 新港路,http://traffic.jbh.tjbh.com/live/xgl.stream/playlist.m3u8
@@ -653,9 +649,6 @@ type="stream"  title="MUSICA" - RETRO Music Television,http://stream.mediawork.c
 新科动漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2/index.m3u8
 星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 江苏卫视,http://60.16.0.216:5757/hls/24/index.m3u8
-江西卫视,http://112.123.243.37:50085/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
-河北卫视,http://153.0.171.163:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://153.0.171.163:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 津塘公路高架桥,http://traffic.jbh.tjbh.com/live/jtgl.stream/playlist.m3u8
 浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
 海南卫视,http://112.132.10.54:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -663,19 +656,14 @@ type="stream"  title="MUSICA" - RETRO Music Television,http://stream.mediawork.c
 海河开启桥,http://traffic.jbh.tjbh.com/live/hhkqq.stream/playlist.m3u8
 海门大桥,http://traffic.jbh.tjbh.com/live/hmdq.stream/playlist.m3u8
 淮阴综合,https://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8
-深圳卫视,http://153.0.171.163:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://112.132.10.54:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://153.0.171.163:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndy
 湖南电视剧,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndsj
 澳门莲花,http://8.138.7.223/tv/lotustv.m3u8
 甘肃卫视,http://112.123.243.37:50085/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
 西藏卫视,http://112.123.243.37:50085/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0
-贵州卫视,http://112.123.243.37:50085/tsfile/live/0130_2.m3u8
-辽宁卫视,http://153.0.171.163:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://60.16.0.216:5757/hls/36/index.m3u8
 金鹰卡通,http://101.66.198.176:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
-陕西卫视,http://112.123.243.37:50085/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0
 青海卫视,http://113.25.252.226:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
 青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
