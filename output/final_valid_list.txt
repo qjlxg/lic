@@ -24,10 +24,8 @@ ARENA SPORT 4 HD (SR),http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SA9RR
 ARENA SPORT 5 HD (HR),http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SG2AHCruMR2fW3wKTS3gJDE/ts?checkedby:iptvcat.com
 ARENA SPORT 5 HD (SR),http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SPVsDoRitrsvSxvt1J7Ec2E/ts?checkedby:iptvcat.com
 ARTVISI,https://streaming.yufid.com/hls/artvisi.m3u8
-ASHIIL TV 2,https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
 AT&T SPORTSNET Pittsburgh,http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SJXrUskTz1LcV2fbMFuv9gk/ts?checkedby:iptvcat.com
 AT&T SportsNet Rocky Mountain,http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SDHTu33BwLpH-f2RwhDrq28/ts?checkedby:iptvcat.com
-ATB (Opt-1),http://186.121.206.197/live/daniel/index.m3u8
 AVC Atlántica - 2CTV - Santa Teresita - BA Buenos Aires,http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0101
 Action 24,https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 AdultIPTV.net Anal,http://cdn.adultiptv.net/anal.m3u8
@@ -270,7 +268,6 @@ LV81 12 El Doce - 40.1TV - Cordoba  TV - CO Cordoba,http://www.radiosargentina.c
 La Forma del Agua SUBTITULADO |,https://archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
 La Fuerza De La Ilusion |,https://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
 Lax Sports Network TV,https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8?checkedby:iptvcat.com
-Litoral www.achoAPPS.com - 103.1 TV - Paraná - ER Entre Rios,http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0146
 Logos TV (España),https://streamer1.streamhost.org/salive/logosH/master.m3u8
 M95 Marbella,https://limited2.todostreaming.es/live/m95-livestream.m3u8
 MAKKAH TV,https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
@@ -283,7 +280,9 @@ MI ABUELO ES UN PELIGRO,https://goo.gl/KYCQoX
 MILF HD,http://live.redtraffic.xyz/milf.m3u8
 MQTV,https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 MSNBC,http://41.205.93.154:80/MSNBC/index.m3u8
+MTV Ava,https://live-fi.tvkaista.net/ava/live.m3u8
 MTV Sub,https://live-fi.tvkaista.net/sub/live.m3u8
+MTV3,https://live-fi.tvkaista.net/mtv3/live.m3u8
 MUI TV,https://tvmui.siar.us/tvmui/live/playlist.m3u8
 MUSICA:Retro Tv,http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
 Madani TV,https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
@@ -307,7 +306,6 @@ MyTime Movie Network,https://mytime-tcl.amagi.tv/playlist.m3u8
 Mysports 3 HD,http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/16799.ts?checkedby:iptvcat.com
 Myzen TV [Geo-blocked],https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungit/playlist.m3u8
 NEA,https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
-NHK World - CTV - CABA TV Cable - CD Cd Aut Bs As,http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0025
 Naftemporiki TV,https://stream-188125.castr.net/631af9c016e5eace19ff9a5b/live_048998706a2311ee83b33fe7fbad252d/index.fmp4.m3u8
 Net TV,https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 NewsNation,http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
@@ -363,6 +361,9 @@ RTN Neuquén,http://media.neuquen.gov.ar/rtn/television/media.m3u8
 RTN TV Neuquén,http://media.neuquen.gov.ar/rtn/television/chunklist_w2042779766.m3u8
 RTS Deux,http://romanija.xyz:8080/22supertv7753/razmjena5262352/575?checkedby:iptvcat.com
 RTS Un,http://romanija.xyz:8080/22supertv7753/razmjena5262352/574?checkedby:iptvcat.com
+Red ADVenir,https://streamer1.streamhost.org/salive/GMIredadvenirm/chunklist.m3u8
+Red Advenir,https://streamer1.streamhost.org/salive/GMIredadvenirh/playlist.m3u8?iptvgratis?chile.m3u8
+Red Advenir (Bolivia),https://streamer1.streamhost.org/salive/GMIredadvenirh/playlist.m3u8
 RedTraffic 1,http://live.redtraffic.xyz/blowjob.m3u8
 RedTraffic 10,http://live.redtraffic.xyz/russian.m3u8
 RedTraffic 11,http://live.redtraffic.xyz/latina.m3u8
@@ -424,7 +425,6 @@ STARZ Encore Action HD,http://195.181.163.243/STARZ_ENCORE_ACTION/index.m3u8
 STARZ Encore Classic HD,http://195.181.163.243/STARZ_ENCORE_CLASSIC/index.m3u8
 STARZ Encore Westerns HD,http://195.181.163.243/STARZ_ENCORE_WESTERNS/index.m3u8
 STARZ HD,http://195.181.163.243/STARZ/index.m3u8
-Sakti TV Madiun,https://saktitv.siar.us/saktitv/live/playlist.m3u8
 Sampacho Television - TV - Sampacho - CO Cordoba,http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0128
 Sand Castle,http://cecegeek@goo.gl/FDyHpL
 Sandy Wexler,http://cecegeek@goo.gl/kyH56Z
@@ -473,6 +473,7 @@ TV Brasil,https://tvbrasil-stream.ebc.com.br/index.m3u8
 TV Cultura,https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 TV Municipal Cordoba,http://teledifusion.tv:1935/cordoba/cordobalive/.m3u8
 TV Okey,https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+TV Universidad - 56.1 TV - La Plata,https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 TV24 HD,http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/64608.ts?checkedby:iptvcat.com
 TV5,https://live-fi.tvkaista.net/tv5/live.m3u8
 TVA Sports 2 HD (FR),http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHgJRnyWnzTqFjPPpUTFA2Y/ts?checkedby:iptvcat.com
@@ -490,7 +491,6 @@ Tele Aruba Channel 13,https://backend-server-dot-telearuba-app.appspot.com/media
 Tele Diez - 10 TV - Ps de los Libres - CR Corrientes,http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0136
 Tele M1 HD,https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_ljzy3evp/format/applehttp/protocol/https/a.m3u8?checkedby:iptvcat.com
 Tele Zurich,http://romanija.xyz:8080/22supertv7753/razmjena5262352/576?checkedby:iptvcat.com
-TeleNord Corrientes,http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
 TeleUno TV,http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 Teleislas,https://5ab772334c39c.streamlock.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
 Telemax,http://s5.mexside.net:1935/telemax/telemax/.m3u8
@@ -548,7 +548,6 @@ Videomix:Yearmix2015 www.achoAPPS.com,https://ia600505.us.archive.org/5/items/DJ
 Vision Sur,https://ott1.hdlatam.tv/live_abr/VISIONSUR/playlist.m3u8
 Viva TV,https://ott1.hdlatam.tv/live_abr/Stream11/playlist.m3u8
 Voice Of America,https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_1080.m3u8
-WESAL TV,https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 WION,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 WildEarth [Geo-blocked],https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungnl/playlist.m3u8
 X Sport Plus HD,http://myott.top/stream/DT6QU63K5VX/332.m3u8?checkedby:iptvcat.com
@@ -634,17 +633,14 @@ type="stream"  title="MUSICA" - RETRO Music Television,http://stream.mediawork.c
 Радио Шансон,http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 Страна FM,http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 上海道与中心路交口,http://traffic.jbh.tjbh.com/live/shd.stream/playlist.m3u8
-上海道与和平路交口,http://traffic.jbh.tjbh.com/live/shdwt.stream/playlist.m3u8
 中央大道与新港三号路交口,http://traffic.jbh.tjbh.com/live/zydd.stream/playlist.m3u8
-中心路地道,http://traffic.jbh.tjbh.com/live/zxldd.stream/playlist.m3u8
 五星体育,https://cdn3.163189.xyz/163189/wxty
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 凤凰中文,http://183.237.95.108:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=0&authid=0
-大连道,http://traffic.jbh.tjbh.com/live/dld.stream/playlist.m3u8
+天津卫视,http://153.0.171.163:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://112.132.10.54:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
 山东卫视,http://218.17.33.178:53290/tsfile/live/0131_1.m3u8?key=txiptv
 广东卫视,http://112.27.235.94:8000/hls/30/index.m3u8
-广东珠江,https://stream1.freetv.fun/ad8dcd9cca87071079d7e882cb080770a762f51e3f2fa0cf243b30c2ee09da5b.ctv
 怀旧剧场,http://61.184.46.85:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 新华路立交桥,http://traffic.jbh.tjbh.com/live/xhlljq.stream/playlist.m3u8
 新港路,http://traffic.jbh.tjbh.com/live/xgl.stream/playlist.m3u8
@@ -652,6 +648,8 @@ type="stream"  title="MUSICA" - RETRO Music Television,http://stream.mediawork.c
 新科动漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2/index.m3u8
 星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 江苏卫视,http://60.16.0.216:5757/hls/24/index.m3u8
+河北卫视,http://153.0.171.163:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://153.0.171.163:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 津塘公路高架桥,http://traffic.jbh.tjbh.com/live/jtgl.stream/playlist.m3u8
 浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
 海南卫视,http://112.132.10.54:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -659,7 +657,9 @@ type="stream"  title="MUSICA" - RETRO Music Television,http://stream.mediawork.c
 海河开启桥,http://traffic.jbh.tjbh.com/live/hhkqq.stream/playlist.m3u8
 海门大桥,http://traffic.jbh.tjbh.com/live/hmdq.stream/playlist.m3u8
 淮阴综合,https://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8
+深圳卫视,http://153.0.171.163:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://112.132.10.54:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://153.0.171.163:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndy
 湖南电视剧,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndsj
 澳门莲花,http://8.138.7.223/tv/lotustv.m3u8
