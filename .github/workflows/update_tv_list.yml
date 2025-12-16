@@ -1,4 +1,4 @@
-name: 📺 Update TV List from URLs
+name:  TV List 搜索 URLs
 
 on:
   # 允许手动触发工作流

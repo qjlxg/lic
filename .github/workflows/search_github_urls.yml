@@ -1,4 +1,4 @@
-name: 搜索并更新 IPTV URL
+name: 搜索 TV URL
 
 on:
   push:

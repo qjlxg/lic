@@ -1,4 +1,4 @@
-name: 🔬 TV List Link Check (链接有效性测试)
+name: TV (链接有效性测试)
 
 on:
   push:

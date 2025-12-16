@@ -1,4 +1,4 @@
-name: '📺 TVBox 配置验证与合并'
+name: 'TVBox 配置验证'
 
 on:
   # 1. 允许手动运行工作流
