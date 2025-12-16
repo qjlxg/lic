@@ -73,7 +73,6 @@ Asiri TV,https://ott1.hdlatam.tv/live/asiri_tv/playlist.m3u8
 Astro Awani,https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 Astro Football,https://wahyu1ptv.pages.dev/AstroFootBall-HD.m3u8
 Astro Grandstand,https://wahyu1ptv.pages.dev/AstroGrandStand-HD.m3u8
-Athletic Club vs PSG,https://streameast.asia/playlist/streampr1.m3u8?md5=85N_jp7_FGUIO0Zckc7S0A&expires=1765386966|referer=https://streambtw.live/|origin=https://streambtw.live|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/142.0.0.0%20Safari/537.36
 AutenticaTV,https://live.obslivestream.com/autenticatvmux/index.m3u8
 Avivamiento,https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
 BA Buenos Aires,http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0089
@@ -150,7 +149,6 @@ CNN USA,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VI
 COLOSSAL (2016),http://bit.ly/2w5zZIw
 COMPANY TV,https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 Cali TV,http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
-Canal 10 Cancún,http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 Canal 2 - 2 TV - La Rioja TV - LR La Rioja,http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0149
 Canal 2 Telpin,https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/chunklist.m3u8
 Canal 22  www.achoAPPS.com - Web   TV - CABA TV Web - CD Cd Aut Bs As,http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0057
@@ -543,6 +541,7 @@ Ufrovision | HD | Temuco,http://mdstrm.com/live-stream-playlist/580a80b827de0ae2
 V2BEAT,https://abr.de1se01.v2beat.live/playlist.m3u8
 V2BEAT TV,https://de1se01.v2beat.live/playlist.m3u8
 V2Beat TV,https://abr.de1se01.v2beat.live/playlist.m3u8
+VIATV,https://ott1.hdlatam.tv/live_abr/VIATV/playlist.m3u8
 VOD FREE: EL MAL DENTRO 2017,https://archive.org/download/01062017Aqc782937187398721893/01062017_aqc.avi?Pelixmax1.avi
 VOD FREE: LA MINA,https://ia801603.us.archive.org/20/items/24052017Aqc789423784723984/24052017_aqc.mkv?PelixMax1.mkv
 VOD FREE: MATRIX,http://www.deadlyblogger.com/NewRelease/matrix1.mp4
@@ -576,7 +575,6 @@ Videomix:Yearmix2015 www.achoAPPS.com,https://ia600505.us.archive.org/5/items/DJ
 Vision Sur,https://ott1.hdlatam.tv/live_abr/VISIONSUR/playlist.m3u8
 Viva TV,https://ott1.hdlatam.tv/live_abr/Stream11/playlist.m3u8
 Voice Of America,https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_1080.m3u8
-WESAL TV,https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 WION,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 WildEarth [Geo-blocked],https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungnl/playlist.m3u8
 X Sport Plus HD,http://myott.top/stream/DT6QU63K5VX/332.m3u8?checkedby:iptvcat.com
@@ -606,6 +604,7 @@ ZooMoo,https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d6508
 [乌克兰]ТВА (Чернiвцi) (576p),http://hls.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
 [乌克兰]ТВА Чернівці,http://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8
 [乌拉圭]Ovacion (720p),http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+[亚美尼亚]Amga [Not 24/7],https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
 [以色列]Musayof (Israel) (240p) [Not 24/7],http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8
 [伊拉克]Dijlah,http://91.134.145.75:10001/Dijlah/index.m3u8
 [伊拉克]Zagros (720p),https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
@@ -620,7 +619,6 @@ ZooMoo,https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d6508
 [俄罗斯联邦]Ветта 24 (Пермь) (576p),http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
 [俄罗斯联邦]Дом кино,http://spacetv.in/stream/DVB2D6AE8CU/108.m3u8
 [俄罗斯联邦]Дом кино 16,http://spacetv.in/stream/DVB2D6AE8CU/236.m3u8
-[俄罗斯联邦]Жар Птица (1080p),http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
 [俄罗斯联邦]Комедийное HD,http://spacetv.in/stream/DIPK8H19CP8/74.m3u8
 [俄罗斯联邦]ЛДПР ТВ (1080p),http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
 [俄罗斯联邦]ЛДПР ТВ (480p),http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8
@@ -695,7 +693,6 @@ ZooMoo,https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d6508
 [希腊]NEA TV (1080p),https://live.neatv.gr:8888/hls/neatv.m3u8
 [希腊]NRG TV (720p),https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
 [希腊]PELLA TV (576p),https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
-[希腊]SMILE TV CY (360p),https://s1.cystream.net/live/smile/playlist.m3u8
 [希腊]Samiaki TV (540p),http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
 [希腊]TV Creta,https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8
 [希腊]XPLORE (714p),http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
@@ -767,7 +764,6 @@ ZooMoo,https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d6508
 [智利]VTV Aconcaga,http://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
 [比利时]Notele,https://streaming01.divercom.be/notele_live/_definst_/direct.stream/playlist.m3u8
 [法国]TV7 Colmar,http://tv7.hdr-tv.com:1935/live/tv7/livestream/playlist.m3u8
-[法国]viàMoselleTV (720p),https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
 [波兰]TV Kujawy,http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
 [波兰]TV Torun HD (1080p),http://217.173.176.107:1935/live/tvk.stream/playlist.m3u8
 [波兰]TV Toruń (1080p),http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
@@ -929,10 +925,8 @@ type="stream"  title="MUSICA" - RETRO Music Television,http://stream.mediawork.c
 |FR|Canal Local Grosbliederstroff,https://live.creacast.com/canallocalgrosblie-ch1/smil:canallocalgrosblie-ch1.smil/playlist.m3u8
 |FR|Cannes Lérins TV,https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
 |FR|DCM TV,https://vdo.pro-fhi.net:3060/stream/play.m3u8
-|FR|IL TV,https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
 |FR|Le Figaro TV [IdF],https://static.lefigaro.fr/secom/tnt.m3u8
 |FR|Ma Télé,https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
-|FR|Mirabelle TV,https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
 |FR|TV Tours-Val-de-Loire,https://lives.digiteka.com/stream/920f083a-9e61-4c09-9bc2-bdb664063aa9/index.m3u8
 |FR|TV3V,https://tv3v.live-kd.com/live/tv3v/livestream/playlist.m3u8
 |FR|TV7 [Colmar],http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
@@ -973,7 +967,6 @@ type="stream"  title="MUSICA" - RETRO Music Television,http://stream.mediawork.c
 中心路地道,http://traffic.jbh.tjbh.com/live/zxldd.stream/playlist.m3u8
 五星体育,https://cdn3.163189.xyz/163189/wxty
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-凤凰中文,http://183.237.95.108:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=0&authid=0
 台湾番薯台[1920*1080],http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 大连道,http://traffic.jbh.tjbh.com/live/dld.stream/playlist.m3u8
 天津卫视,http://153.0.171.163:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -987,25 +980,16 @@ type="stream"  title="MUSICA" - RETRO Music Television,http://stream.mediawork.c
 新科动漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2/index.m3u8
 星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 江苏卫视,http://60.16.0.216:5757/hls/24/index.m3u8
-江西卫视,http://112.123.243.37:50085/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
-河北卫视,http://153.0.171.163:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://153.0.171.163:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 津塘公路高架桥,http://traffic.jbh.tjbh.com/live/jtgl.stream/playlist.m3u8
 浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
 海峡卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/haixiaws/57/20230724/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 海河开启桥,http://traffic.jbh.tjbh.com/live/hhkqq.stream/playlist.m3u8
 海门大桥,http://traffic.jbh.tjbh.com/live/hmdq.stream/playlist.m3u8
 淮阴综合,https://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8
-深圳卫视,http://153.0.171.163:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://153.0.171.163:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndy
 湖南电视剧,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndsj
 澳门莲花,http://8.138.7.223/tv/lotustv.m3u8
-甘肃卫视,http://112.123.243.37:50085/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
-辽宁卫视,http://153.0.171.163:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://60.16.0.216:5757/hls/36/index.m3u8
-陕西卫视,http://112.123.243.37:50085/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0
 青海卫视,http://113.25.252.226:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
 青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-黑龙江卫视,http://153.0.171.163:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
