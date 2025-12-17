@@ -25,8 +25,6 @@ http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/302949
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/302951
 #EXTINF:-1 tvg-name="AFROBEATS" group-title="Valid Channels",AFROBEATS
 https://stream.ecable.tv/afrobeats/index.m3u8
-#EXTINF:-1 tvg-name="AL Jawadain" group-title="Valid Channels",AL Jawadain
-https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
 #EXTINF:-1 tvg-name="ANGRY BIRDS" group-title="Valid Channels",ANGRY BIRDS
 http://cecegeek@goo.gl/3KGMLf
 #EXTINF:-1 tvg-name="ARENA SPORT 1 HD (HR)" group-title="Valid Channels",ARENA SPORT 1 HD (HR)
@@ -149,6 +147,8 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 https://wahyu1ptv.pages.dev/AstroFootBall-HD.m3u8
 #EXTINF:-1 tvg-name="Astro Grandstand" group-title="Valid Channels",Astro Grandstand
 https://wahyu1ptv.pages.dev/AstroGrandStand-HD.m3u8
+#EXTINF:-1 tvg-name="Athletic Club vs PSG" group-title="Valid Channels",Athletic Club vs PSG
+https://streameast.asia/playlist/streampr1.m3u8?md5=85N_jp7_FGUIO0Zckc7S0A&expires=1765386966|referer=https://streambtw.live/|origin=https://streambtw.live|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/142.0.0.0%20Safari/537.36
 #EXTINF:-1 tvg-name="AutenticaTV" group-title="Valid Channels",AutenticaTV
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:-1 tvg-name="Avivamiento" group-title="Valid Channels",Avivamiento
@@ -301,6 +301,8 @@ http://bit.ly/2w5zZIw
 https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 #EXTINF:-1 tvg-name="Cali TV" group-title="Valid Channels",Cali TV
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 10 Cancún" group-title="Valid Channels",Canal 10 Cancún
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 2 - 2 TV - La Rioja TV - LR La Rioja" group-title="Valid Channels",Canal 2 - 2 TV - La Rioja TV - LR La Rioja
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0149
 #EXTINF:-1 tvg-name="Canal 2 Telpin" group-title="Valid Channels",Canal 2 Telpin
@@ -309,6 +311,8 @@ https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/chunklist.m3u8
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0057
 #EXTINF:-1 tvg-name="Canal 22.1" group-title="Valid Channels",Canal 22.1
 https://5e50264bd6766.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 4 - 4CTV - San S de Jujuy - JU Jujuy" group-title="Valid Channels",Canal 4 - 4CTV - San S de Jujuy - JU Jujuy
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0147
 #EXTINF:-1 tvg-name="Canal 4 Mancha Centro" group-title="Valid Channels",Canal 4 Mancha Centro
 https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal Alpha Jura" group-title="Valid Channels",Canal Alpha Jura
@@ -469,8 +473,6 @@ http://159.203.148.226/live/farra.m3u8
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0018
 #EXTINF:-1 tvg-name="Fitria Hermisasi ☺️🥳🔥" group-title="Valid Channels",Fitria Hermisasi ☺️🥳🔥
 https://cdn.pixabay.com/video/2022/05/17/117319-711467274_large.mp4
-#EXTINF:-1 tvg-name="Foz do (LG) (Friendship Bridge)" group-title="Valid Channels",Foz do (LG) (Friendship Bridge)
-https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/chunklist.m3u8
 #EXTINF:-1 tvg-name="France 24" group-title="Valid Channels",France 24
 https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-name="France 24 English" group-title="Valid Channels",France 24 English
@@ -543,6 +545,8 @@ https://ott2.hdlatam.tv/live_abr/Stream16/playlist.m3u8
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
 #EXTINF:-1 tvg-name="Kontra Ⓖ" group-title="Valid Channels",Kontra Ⓖ
 https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
+#EXTINF:-1 tvg-name="Kronehit HD" group-title="Valid Channels",Kronehit HD
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1 tvg-name="LA BELLA DURMIENTE (CLASICA)" group-title="Valid Channels",LA BELLA DURMIENTE (CLASICA)
 http://bit.ly/LABELLAMOVIE
 #EXTINF:-1 tvg-name="LA CHICA DANESA" group-title="Valid Channels",LA CHICA DANESA
@@ -591,12 +595,6 @@ https://goo.gl/KYCQoX
 http://live.redtraffic.xyz/milf.m3u8
 #EXTINF:-1 tvg-name="MQTV" group-title="Valid Channels",MQTV
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
-#EXTINF:-1 tvg-name="MSNBC" group-title="Valid Channels",MSNBC
-http://41.205.93.154:80/MSNBC/index.m3u8
-#EXTINF:-1 tvg-name="MTV Ava" group-title="Valid Channels",MTV Ava
-https://live-fi.tvkaista.net/ava/live.m3u8
-#EXTINF:-1 tvg-name="MTV Sub" group-title="Valid Channels",MTV Sub
-https://live-fi.tvkaista.net/sub/live.m3u8
 #EXTINF:-1 tvg-name="MTV3" group-title="Valid Channels",MTV3
 https://live-fi.tvkaista.net/mtv3/live.m3u8
 #EXTINF:-1 tvg-name="MUI TV" group-title="Valid Channels",MUI TV
@@ -651,6 +649,8 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0025
 https://stream-188125.castr.net/631af9c016e5eace19ff9a5b/live_048998706a2311ee83b33fe7fbad252d/index.fmp4.m3u8
 #EXTINF:-1 tvg-name="Net TV" group-title="Valid Channels",Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
+#EXTINF:-1 tvg-name="NewsNation" group-title="Valid Channels",NewsNation
+http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
 #EXTINF:-1 tvg-name="Nolly Africa [Geo-blocked]" group-title="Valid Channels",Nolly Africa [Geo-blocked]
 https://amg02784-nollyafricafast-amg02784c1-cineverse-us-1124.playouts.now.amagi.tv/playlist/amg02784-nollyafricafast-nollyafricahd-cineverseus/playlist.m3u8
 #EXTINF:-1 tvg-name="Nosey" group-title="Valid Channels",Nosey
@@ -671,8 +671,6 @@ https://streameast.asia/playlist/stream_nba1.m3u8?md5=n-LrXkRVoaaYJUQvDFWuIg&exp
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="On Sport" group-title="Valid Channels",On Sport
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/33663
-#EXTINF:-1 tvg-name="Onda Algeciras TV" group-title="Valid Channels",Onda Algeciras TV
-https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
 #EXTINF:-1 tvg-name="One Channel Ⓖ" group-title="Valid Channels",One Channel Ⓖ
 https://onechannel.siliconweb.com/one/live_abr/playlist_dvr.m3u8
 #EXTINF:-1 tvg-name="One TV (360p)" group-title="Valid Channels",One TV (360p)
@@ -1035,8 +1033,6 @@ https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_ljzy
 http://romanija.xyz:8080/22supertv7753/razmjena5262352/576?checkedby:iptvcat.com
 #EXTINF:-1 tvg-name="TeleBielingue (720p)" group-title="Valid Channels",TeleBielingue (720p)
 https://edge.vedge.infomaniak.com/livecast/ik:telebielinguech/manifest.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-name="TeleNord Corrientes" group-title="Valid Channels",TeleNord Corrientes
-http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
 #EXTINF:-1 tvg-name="TeleUno TV" group-title="Valid Channels",TeleUno TV
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 #EXTINF:-1 tvg-name="Teleislas" group-title="Valid Channels",Teleislas
@@ -1153,6 +1149,8 @@ https://ott1.hdlatam.tv/live_abr/VISIONSUR/playlist.m3u8
 https://ott1.hdlatam.tv/live_abr/Stream11/playlist.m3u8
 #EXTINF:-1 tvg-name="Voice Of America" group-title="Valid Channels",Voice Of America
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_1080.m3u8
+#EXTINF:-1 tvg-name="WESAL TV" group-title="Valid Channels",WESAL TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 #EXTINF:-1 tvg-name="WION" group-title="Valid Channels",WION
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-name="WildEarth [Geo-blocked]" group-title="Valid Channels",WildEarth [Geo-blocked]
@@ -1193,6 +1191,8 @@ http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 http://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8
 #EXTINF:-1 tvg-name="[PR]Pura Palabra (720p)" group-title="Valid Channels",[PR]Pura Palabra (720p)
 https://59825a54e4454.streamlock.net:8443/william233/william233/playlist.m3u8
+#EXTINF:-1 tvg-name="[PS]Watar TV" group-title="Valid Channels",[PS]Watar TV
+http://htvint.mada.ps:8889/orient/index.m3u8
 #EXTINF:-1 tvg-name="[乌克兰]1+1" group-title="Valid Channels",[乌克兰]1+1
 http://spacetv.in/stream/DIPK8H19CP8/172.m3u8
 #EXTINF:-1 tvg-name="[乌克兰]2+2" group-title="Valid Channels",[乌克兰]2+2
@@ -1241,6 +1241,8 @@ http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
 http://spacetv.in/stream/DVB2D6AE8CU/108.m3u8
 #EXTINF:-1 tvg-name="[俄罗斯联邦]Дом кино 16" group-title="Valid Channels",[俄罗斯联邦]Дом кино 16
 http://spacetv.in/stream/DVB2D6AE8CU/236.m3u8
+#EXTINF:-1 tvg-name="[俄罗斯联邦]Жар Птица (1080p)" group-title="Valid Channels",[俄罗斯联邦]Жар Птица (1080p)
+http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
 #EXTINF:-1 tvg-name="[俄罗斯联邦]Комедийное HD" group-title="Valid Channels",[俄罗斯联邦]Комедийное HD
 http://spacetv.in/stream/DIPK8H19CP8/74.m3u8
 #EXTINF:-1 tvg-name="[俄罗斯联邦]ЛДПР ТВ (1080p)" group-title="Valid Channels",[俄罗斯联邦]ЛДПР ТВ (1080p)
@@ -1755,8 +1757,6 @@ http://5940924978228.streamlock.net:1935/8009/8009/playlist.m3u8
 https://5940924978228.streamlock.net/8009/8009/master.m3u8
 #EXTINF:-1 tvg-name="[西班牙]RTV Vida" group-title="Valid Channels",[西班牙]RTV Vida
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
-#EXTINF:-1 tvg-name="[西班牙]TRECE" group-title="Valid Channels",[西班牙]TRECE
-https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="[西班牙]Trece TV" group-title="Valid Channels",[西班牙]Trece TV
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8
 #EXTINF:-1 tvg-name="[赤道几内亚]TVGE" group-title="Valid Channels",[赤道几内亚]TVGE
@@ -1777,8 +1777,6 @@ http://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b08612
 http://tv.balkanweb.com/news24/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="[阿根廷]Net TV (720p)" group-title="Valid Channels",[阿根廷]Net TV (720p)
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="[阿根廷]Telenord Corrientes (720p)" group-title="Valid Channels",[阿根廷]Telenord Corrientes (720p)
-http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
 #EXTINF:-1 tvg-name="[韩国]KCTV 광주 CH05" group-title="Valid Channels",[韩国]KCTV 광주 CH05
 http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 #EXTINF:-1 tvg-name="[韩国]국악방송" group-title="Valid Channels",[韩国]국악방송
@@ -1929,26 +1927,40 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 http://traffic.jbh.tjbh.com/live/shd.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="上海道与和平路交口" group-title="Valid Channels",上海道与和平路交口
 http://traffic.jbh.tjbh.com/live/shdwt.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="东南卫视" group-title="Valid Channels",东南卫视
+http://112.123.243.37:50085/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="中央大道与新港三号路交口" group-title="Valid Channels",中央大道与新港三号路交口
 http://traffic.jbh.tjbh.com/live/zydd.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="中心路地道" group-title="Valid Channels",中心路地道
-http://traffic.jbh.tjbh.com/live/zxldd.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="云南卫视" group-title="Valid Channels",云南卫视
+http://112.123.243.37:50085/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="五星体育" group-title="Valid Channels",五星体育
 https://cdn3.163189.xyz/163189/wxty
 #EXTINF:-1 tvg-name="人间卫视" group-title="Valid Channels",人间卫视
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+#EXTINF:-1 tvg-name="兵团卫视" group-title="Valid Channels",兵团卫视
+http://112.123.243.37:50085/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="内蒙古卫视" group-title="Valid Channels",内蒙古卫视
+http://112.123.243.37:50085/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="凤凰中文" group-title="Valid Channels",凤凰中文
+http://183.237.95.108:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="台湾番薯台[1920*1080]" group-title="Valid Channels",台湾番薯台[1920*1080]
 http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+#EXTINF:-1 tvg-name="吉林卫视" group-title="Valid Channels",吉林卫视
+http://112.123.243.37:50085/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="四川卫视" group-title="Valid Channels",四川卫视
+http://112.123.243.37:50085/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="大连道" group-title="Valid Channels",大连道
 http://traffic.jbh.tjbh.com/live/dld.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="天津卫视" group-title="Valid Channels",天津卫视
 http://153.0.171.163:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="宁夏卫视" group-title="Valid Channels",宁夏卫视
+http://112.123.243.37:50085/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="山东卫视" group-title="Valid Channels",山东卫视
 http://218.17.33.178:53290/tsfile/live/0131_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="广东卫视" group-title="Valid Channels",广东卫视
 http://112.27.235.94:8000/hls/30/index.m3u8
-#EXTINF:-1 tvg-name="广东珠江" group-title="Valid Channels",广东珠江
-https://stream1.freetv.fun/ad8dcd9cca87071079d7e882cb080770a762f51e3f2fa0cf243b30c2ee09da5b.ctv
+#EXTINF:-1 tvg-name="广西卫视" group-title="Valid Channels",广西卫视
+http://112.123.243.37:50085/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="怀旧剧场" group-title="Valid Channels",怀旧剧场
 http://61.184.46.85:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="新华路立交桥" group-title="Valid Channels",新华路立交桥
@@ -1963,10 +1975,18 @@ http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2/index.m3u8
 http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" group-title="Valid Channels",江苏卫视
 http://60.16.0.216:5757/hls/24/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视" group-title="Valid Channels",江西卫视
+http://112.123.243.37:50085/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="河北卫视" group-title="Valid Channels",河北卫视
+http://153.0.171.163:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="河南卫视" group-title="Valid Channels",河南卫视
+http://153.0.171.163:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="津塘公路高架桥" group-title="Valid Channels",津塘公路高架桥
 http://traffic.jbh.tjbh.com/live/jtgl.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" group-title="Valid Channels",浙江卫视
 http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
+#EXTINF:-1 tvg-name="海南卫视" group-title="Valid Channels",海南卫视
+http://112.132.10.54:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="海峡卫视" group-title="Valid Channels",海峡卫视
 http://hlsbkmgsplive.miguvideo.com/migu/kailu/haixiaws/57/20230724/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 #EXTINF:-1 tvg-name="海河开启桥" group-title="Valid Channels",海河开启桥
@@ -1975,17 +1995,35 @@ http://traffic.jbh.tjbh.com/live/hhkqq.stream/playlist.m3u8
 http://traffic.jbh.tjbh.com/live/hmdq.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="淮阴综合" group-title="Valid Channels",淮阴综合
 https://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" group-title="Valid Channels",深圳卫视
+http://153.0.171.163:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="湖北卫视" group-title="Valid Channels",湖北卫视
+http://112.132.10.54:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="湖南卫视" group-title="Valid Channels",湖南卫视
+http://153.0.171.163:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="湖南电影" group-title="Valid Channels",湖南电影
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndy
 #EXTINF:-1 tvg-name="湖南电视剧" group-title="Valid Channels",湖南电视剧
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndsj
 #EXTINF:-1 tvg-name="澳门莲花" group-title="Valid Channels",澳门莲花
 http://8.138.7.223/tv/lotustv.m3u8
+#EXTINF:-1 tvg-name="甘肃卫视" group-title="Valid Channels",甘肃卫视
+http://112.123.243.37:50085/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="西藏卫视" group-title="Valid Channels",西藏卫视
+http://112.123.243.37:50085/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="贵州卫视" group-title="Valid Channels",贵州卫视
+http://112.123.243.37:50085/tsfile/live/0130_2.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" group-title="Valid Channels",辽宁卫视
+http://153.0.171.163:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="重庆卫视" group-title="Valid Channels",重庆卫视
 http://60.16.0.216:5757/hls/36/index.m3u8
+#EXTINF:-1 tvg-name="陕西卫视" group-title="Valid Channels",陕西卫视
+http://112.123.243.37:50085/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="青海卫视" group-title="Valid Channels",青海卫视
 http://113.25.252.226:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="青田电视台" group-title="Valid Channels",青田电视台
 http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 #EXTINF:-1 tvg-name="香港卫视" group-title="Valid Channels",香港卫视
 http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" group-title="Valid Channels",黑龙江卫视
+http://153.0.171.163:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
