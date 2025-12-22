@@ -238,26 +238,10 @@
       "quickSearch": 0
     },
     {
-      "key": "*美少女资源",
-      "name": "*美少女资源",
-      "type": 0,
-      "api": "https://www.msnii.com/api/xml.php",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
       "key": "*香奶儿资源",
       "name": "*香奶儿资源",
       "type": 0,
       "api": "https://www.gdlsp.com/api/xml.php",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
-      "key": "*白嫖资源",
-      "name": "*白嫖资源",
-      "type": 0,
-      "api": "https://www.kxgav.com/api/xml.php",
       "searchable": 0,
       "quickSearch": 0
     },
@@ -270,252 +254,21 @@
       "quickSearch": 0
     },
     {
-      "key": "*鲨鱼资源",
-      "name": "*鲨鱼资源",
+      "key": "樱花采集",
+      "name": "樱花",
       "type": 1,
-      "api": "https://shayuapi.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
-      "key": "白嫖",
-      "name": "白嫖",
-      "type": 0,
-      "api": "https://www.kxgav.com/api/xml.php",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/?ac=list",
+      "playUrl": "https://jx.yhzybf.com/player/jx.php?url="
     },
     {
-      "key": "索尼资源",
-      "name": "索尼资源",
+      "key": "hiker-4",
+      "name": "76-hiker",
       "type": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod/",
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
-    },
-    {
-      "key": "*AIvin",
-      "name": "AIvin",
-      "type": 0,
-      "api": "http://lbapiby.com/api.php/provide/vod/at/xml"
-    },
-    {
-      "key": "51smt4.xyz",
-      "name": "成人02",
-      "type": 1,
-      "api": "http://51smt4.xyz/api.php/provide/vod/",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "shayuapi.com",
-      "name": "成人40",
-      "type": 1,
-      "api": "https://shayuapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "最大采集",
-      "name": "最大｜采集",
-      "type": 1,
-      "api": "https://zuida.xyz/api.php/provide/vod/",
-      "quickSearch": 1,
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "动画片",
-        "科幻片",
-        "惊悚片",
-        "冒险片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "历史片",
-        "犯罪片",
-        "悬疑片",
-        "国产剧",
-        "港台剧",
-        "欧美剧",
-        "动漫",
-        "综艺"
-      ]
-    },
-    {
-      "key": "jkunzy.com",
-      "name": "💕jkun(直连)",
-      "type": 1,
-      "api": "https://jkunzyapi.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "58动漫网",
-      "name": "动漫🐟58",
-      "type": 3,
-      "api": "https://www.yingm.cc/dm/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "https://www.yingm.cc/dm/js/58动漫.js"
-    },
-    {
-      "key": "闪电资源",
-      "name": "闪电采集",
-      "type": 1,
-      "api": "http://sdzyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "*淫水机资源",
-      "name": "🔞淫水机",
-      "type": 0,
-      "api": "https://www.xrbsp.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "Telegram @uTVBox_Bot 获取专属订阅链接",
-      "name": "Telegram @uTVBox_Bot 获取专属订阅链接",
-      "type": 4,
-      "api": "https://newtv.ggff.net/douban?token=NtKuzkIw",
-      "quickserch": 0,
-      "searchable": 0
-    },
-    {
-      "key": "3d23da393a65774f2800c6732c55c7ce",
-      "name": "29-快鹰",
-      "type": 1,
-      "api": "http://savviuux.hk3.345888.xyz.cdn.cloudflare.net/api.php/provide/vod/",
-      "playUrl": "https://stray.serv00.net/ky.php?url=",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "ikun资源",
-      "name": "64-影視ikun资源[直连]",
-      "type": 1,
-      "api": "https://www.ikunzy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "国产剧",
-        "香港剧",
-        "台湾剧",
-        "韩国剧",
-        "纪录片",
-        "动画片",
-        "日本剧",
-        "泰国剧",
-        "欧美剧",
-        "国产动漫",
-        " 日本动漫",
-        "欧美动漫",
-        "海外动漫",
-        "电影解说",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺"
-      ],
-      "quickSearch": 1
-    },
-    {
-      "key": "无尽",
-      "name": "71-.无尽[直连]",
-      "type": 1,
-      "api": "http://api.wujinapi.me/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "国产剧",
-        "香港剧",
-        "台湾剧",
-        "美国剧",
-        "纪录片",
-        "韩国剧",
-        "日本剧",
-        "海外剧",
-        "大陆综艺",
-        "日韩综艺",
-        "港台综艺",
-        "欧美综艺",
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "悬疑片",
-        "动画片",
-        "犯罪片",
-        "奇幻片",
-        "邵氏电影",
-        "泰剧",
-        "短剧",
-        "港台动漫",
-        "海外动漫"
-      ],
-      "header": {
-        "User-Agent": "Mozilla/5.0"
-      },
-      "quickSearch": 1
-    },
-    {
-      "key": "hiker-7",
-      "name": "79-hiker",
-      "type": 1,
-      "api": "https://api.wwzy.tv/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "光速资源",
-      "name": "光速｜采集",
-      "type": 1,
-      "api": "http://api.guangsuapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "剧情片",
-        "恐怖片",
-        "战争片",
-        "动漫电影",
-        "大陆剧",
-        "欧美剧",
-        "港澳剧",
-        "韩剧",
-        "日剧",
-        "台湾剧",
-        "泰剧",
-        "综艺",
-        "动漫",
-        "记录片"
-      ]
-    },
-    {
-      "name": "旺旺",
-      "type": 1,
-      "api": "https://api.wwzy.tv/api.php/provide/vod/"
     },
     {
       "key": "森林",
@@ -523,69 +276,6 @@
       "type": 1,
       "api": "https://beiyong.slapibf.com/api.php/provide/vod/?ac=list",
       "searchable": 1
-    },
-    {
-      "key": "番茄资源",
-      "name": "番茄资源",
-      "type": 1,
-      "api": "https://fqzy.me/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "爱奇艺",
-      "name": "爱奇艺",
-      "type": 3,
-      "playerType": "2",
-      "api": "https://tvbox.catvod.com/js/drpy2.min.js",
-      "ext": "https://tvbox.catvod.com/js/aqy.js"
-    },
-    {
-      "key": "优酷",
-      "name": "优酷",
-      "type": 3,
-      "playerType": "2",
-      "api": "https://tvbox.catvod.com/js/drpy2.min.js",
-      "ext": "https://tvbox.catvod.com/js/yk.js"
-    },
-    {
-      "key": "非凡┃无广",
-      "name": "📺非凡┃测试",
-      "type": 0,
-      "api": "http://yonghu.ffzyapi8.com/api.php/provide/vod/from/ffm3u8/at/xml/",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736998904961/0116.jar;md5;5d55d1e0bf4079bc9591d2ce641a9959",
-      "playUrl": "json:https://jx.ke-mi.vip:2087/123456/json.php?url=",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "categories": [
-        "欧美剧",
-        "香港剧",
-        "韩国剧",
-        "日本剧",
-        "台湾剧",
-        "泰国剧",
-        "海外剧",
-        "动作片",
-        "喜剧片",
-        "科幻片",
-        "恐怖片",
-        "爱情片",
-        "剧情片",
-        "战争片",
-        "纪录片",
-        "大陆综艺",
-        "欧美综艺",
-        "日韩综艺",
-        "港台综艺",
-        "国产动漫",
-        "欧美动漫",
-        "日韩动漫",
-        "港台动漫",
-        "海外动漫"
-      ]
     }
   ],
   "spider": "https://gh.api.99988866.xyz/https://raw.githubusercontent.com/zhixc/CatVodTVSpider/main/jar/custom_spider.jar;md5;88f30019e7618e8dd5e6459ec4ae8bef"
