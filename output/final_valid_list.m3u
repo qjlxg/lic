@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="*Mejor proveedor de IPTV premium | Más de 3000 canales Full HD" group-title="Valid Channels",*Mejor proveedor de IPTV premium | Más de 3000 canales Full HD
+https://ia601406.us.archive.org/8/items/MejoradaLaMejorSuscripcion/mejorada%20la%20mejor%20suscripcion.mp4
 #EXTINF:-1 tvg-name="3+ HD" group-title="Valid Channels",3+ HD
 http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/510.ts?checkedby:iptvcat.com
 #EXTINF:-1 tvg-name="30A Music" group-title="Valid Channels",30A Music
@@ -23,8 +25,6 @@ http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/302949
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/302951
 #EXTINF:-1 tvg-name="AFROBEATS" group-title="Valid Channels",AFROBEATS
 https://stream.ecable.tv/afrobeats/index.m3u8
-#EXTINF:-1 tvg-name="AL Jawadain" group-title="Valid Channels",AL Jawadain
-https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
 #EXTINF:-1 tvg-name="ANGRY BIRDS" group-title="Valid Channels",ANGRY BIRDS
 http://cecegeek@goo.gl/3KGMLf
 #EXTINF:-1 tvg-name="ARENA SPORT 1 HD (HR)" group-title="Valid Channels",ARENA SPORT 1 HD (HR)
@@ -133,8 +133,6 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
 https://cdn.pixabay.com/video/2022/05/17/117319-711467274_large.mp4
 #EXTINF:-1 tvg-name="Animal planet CZ" group-title="Valid Channels",Animal planet CZ
 http://88.212.7.11/live/test_animal_planet_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-name="Arabica Music" group-title="Valid Channels",Arabica Music
-http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 tvg-name="Are we there Yet? [Geo-blocked]" group-title="Valid Channels",Are we there Yet? [Geo-blocked]
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyetnl-samsungnl/playlist.m3u8
 #EXTINF:-1 tvg-name="Astro Awani" group-title="Valid Channels",Astro Awani
@@ -285,6 +283,8 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w891045790_b3840
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-name="CNN USA" group-title="Valid Channels",CNN USA
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-name="COLOSSAL (2016)" group-title="Valid Channels",COLOSSAL (2016)
+http://bit.ly/2w5zZIw
 #EXTINF:-1 tvg-name="COMPANY TV" group-title="Valid Channels",COMPANY TV
 https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 #EXTINF:-1 tvg-name="Cali TV" group-title="Valid Channels",Cali TV
@@ -467,6 +467,8 @@ https://live.france24.com/live/F24_EN_HI_HLS/playlist.m3u8?hdnts=exp=1701853995~
 https://live.france24.com/live/F24_ES_HI_HLS/playlist.m3u8?hdnts=exp=1701853995~acl=/live/F24_ES_HI_HLS/*~hmac=d7a6ee6032881e103a3215e58825b495658518a4e4b7b00ec3a78fab8ce2ed7d&partner=yottalan
 #EXTINF:-1 tvg-name="FreeSports FHD" group-title="Valid Channels",FreeSports FHD
 http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SBXTZQavzuVVWaCsen69SyWg5dk_3YAITyueBfyMliNF/ts?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="Frii" group-title="Valid Channels",Frii
+https://live-fi.tvkaista.net/frii/live.m3u8
 #EXTINF:-1 tvg-name="Fuego TV" group-title="Valid Channels",Fuego TV
 https://ott2.hdlatam.tv/live/fuegotv/playlist.m3u8
 #EXTINF:-1 tvg-name="GB News" group-title="Valid Channels",GB News
@@ -545,6 +547,8 @@ https://edge.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8?checkedby:iptv
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0139
 #EXTINF:-1 tvg-name="LU82 Canal 10 - 43.1TV - Mar del Plata TV - BA Buenos Aires" group-title="Valid Channels",LU82 Canal 10 - 43.1TV - Mar del Plata TV - BA Buenos Aires
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0086
+#EXTINF:-1 tvg-name="LV80 10 SRT - 31.2TV - Cordoba  TV - CO Cordoba" group-title="Valid Channels",LV80 10 SRT - 31.2TV - Cordoba  TV - CO Cordoba
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0117
 #EXTINF:-1 tvg-name="LV81 12 El Doce - 40.1TV - Cordoba  TV - CO Cordoba" group-title="Valid Channels",LV81 12 El Doce - 40.1TV - Cordoba  TV - CO Cordoba
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0118
 #EXTINF:-1 tvg-name="La Forma del Agua SUBTITULADO |" group-title="Valid Channels",La Forma del Agua SUBTITULADO |
@@ -583,6 +587,10 @@ http://live.redtraffic.xyz/milf.m3u8
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 #EXTINF:-1 tvg-name="MSNBC" group-title="Valid Channels",MSNBC
 http://41.205.93.154:80/MSNBC/index.m3u8
+#EXTINF:-1 tvg-name="MTV Ava" group-title="Valid Channels",MTV Ava
+https://live-fi.tvkaista.net/ava/live.m3u8
+#EXTINF:-1 tvg-name="MTV3" group-title="Valid Channels",MTV3
+https://live-fi.tvkaista.net/mtv3/live.m3u8
 #EXTINF:-1 tvg-name="MUI TV" group-title="Valid Channels",MUI TV
 https://tvmui.siar.us/tvmui/live/playlist.m3u8
 #EXTINF:-1 tvg-name="MUSICA:Retro Tv" group-title="Valid Channels",MUSICA:Retro Tv
@@ -743,6 +751,8 @@ http://media.neuquen.gov.ar/rtn/television/chunklist_w2042779766.m3u8
 http://romanija.xyz:8080/22supertv7753/razmjena5262352/575?checkedby:iptvcat.com
 #EXTINF:-1 tvg-name="RTS Un" group-title="Valid Channels",RTS Un
 http://romanija.xyz:8080/22supertv7753/razmjena5262352/574?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="Rai 5 - CTV - CABA TV Cable - CD Cd Aut Bs As" group-title="Valid Channels",Rai 5 - CTV - CABA TV Cable - CD Cd Aut Bs As
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0026
 #EXTINF:-1 tvg-name="Red ADVenir" group-title="Valid Channels",Red ADVenir
 https://streamer1.streamhost.org/salive/GMIredadvenirm/chunklist.m3u8
 #EXTINF:-1 tvg-name="Red Advenir" group-title="Valid Channels",Red Advenir
@@ -877,6 +887,10 @@ http://195.181.163.243/STARZ_ENCORE_WESTERNS/index.m3u8
 http://195.181.163.243/STARZ/index.m3u8
 #EXTINF:-1 tvg-name="Sakti TV Madiun" group-title="Valid Channels",Sakti TV Madiun
 https://saktitv.siar.us/saktitv/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Sand Castle" group-title="Valid Channels",Sand Castle
+http://cecegeek@goo.gl/FDyHpL
+#EXTINF:-1 tvg-name="Sandy Wexler" group-title="Valid Channels",Sandy Wexler
+http://cecegeek@goo.gl/kyH56Z
 #EXTINF:-1 tvg-name="Sarjah Sport" group-title="Valid Channels",Sarjah Sport
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/33387
 #EXTINF:-1 tvg-name="Sharjah Sports" group-title="Valid Channels",Sharjah Sports
@@ -937,8 +951,6 @@ http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/58151
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/33356
 #EXTINF:-1 tvg-name="Supreme Master TV" group-title="Valid Channels",Supreme Master TV
 https://lbs-us1.suprememastertv.com/720p.m3u8
-#EXTINF:-1 tvg-name="Surabaya TV" group-title="Valid Channels",Surabaya TV
-https://e.siar.us/live/surabayatv.m3u8
 #EXTINF:-1 tvg-name="Syfy HD" group-title="Valid Channels",Syfy HD
 http://195.181.163.243/SYFY/index.m3u8
 #EXTINF:-1 tvg-name="TC2 - 2 TV - Ciudad Perico www.achoAPPS.com - JU Jujuy" group-title="Valid Channels",TC2 - 2 TV - Ciudad Perico www.achoAPPS.com - JU Jujuy
@@ -973,6 +985,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 #EXTINF:-1 tvg-name="TV24 HD" group-title="Valid Channels",TV24 HD
 http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/64608.ts?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="TV5" group-title="Valid Channels",TV5
+https://live-fi.tvkaista.net/tv5/live.m3u8
 #EXTINF:-1 tvg-name="TVA Sports 2 HD (FR)" group-title="Valid Channels",TVA Sports 2 HD (FR)
 http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHgJRnyWnzTqFjPPpUTFA2Y/ts?checkedby:iptvcat.com
 #EXTINF:-1 tvg-name="TVA Sports HD (FR)" group-title="Valid Channels",TVA Sports HD (FR)
@@ -981,8 +995,6 @@ http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHPmeuWpLyuhCXqg7eNRQ6E/ts?
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 tvg-name="TVB翡翠台" group-title="Valid Channels",TVB翡翠台
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
-#EXTINF:-1 tvg-name="TVM 3" group-title="Valid Channels",TVM 3
-http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-name="TVM3" group-title="Valid Channels",TVM3
 http://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-name="TVM3 (1080p)" group-title="Valid Channels",TVM3 (1080p)
@@ -1069,6 +1081,8 @@ https://ia801603.us.archive.org/20/items/24052017Aqc789423784723984/24052017_aqc
 http://www.deadlyblogger.com/NewRelease/matrix1.mp4
 #EXTINF:-1 tvg-name="VOD FREE: SAHARA" group-title="Valid Channels",VOD FREE: SAHARA
 https://ia801603.us.archive.org/20/items/3453453453454456456456465/17052017_fseer.mp4?PelixMax1.mp4
+#EXTINF:-1 tvg-name="VOLVER AL FUTURO3" group-title="Valid Channels",VOLVER AL FUTURO3
+https://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
 #EXTINF:-1 tvg-name="VOO SPORT 1 FHD" group-title="Valid Channels",VOO SPORT 1 FHD
 http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/51531?checkedby:iptvcat.com
 #EXTINF:-1 tvg-name="VOO SPORT 1 HD" group-title="Valid Channels",VOO SPORT 1 HD
@@ -1095,16 +1109,30 @@ http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/55120?checkedby:iptvcat.com
 http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/51533?checkedby:iptvcat.com
 #EXTINF:-1 tvg-name="VOO SPORT WORLD 3 FHD (backup)" group-title="Valid Channels",VOO SPORT WORLD 3 FHD (backup)
 http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/55121?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="Varias Lat:Colossal" group-title="Valid Channels",Varias Lat:Colossal
+http://ow.ly/FXZ930eWtrs
+#EXTINF:-1 tvg-name="Varias Lat:Volver al Futuro III" group-title="Valid Channels",Varias Lat:Volver al Futuro III
+https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
 #EXTINF:-1 tvg-name="Viasat Sport Россия HD" group-title="Valid Channels",Viasat Sport Россия HD
 http://myott.top/stream/DT6QU63K5VX/102.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="Videomix:SheepMix www.achoAPPS.com" group-title="Valid Channels",Videomix:SheepMix www.achoAPPS.com
+https://ia601302.us.archive.org/7/items/DJPanduroSheepMix/DJ%20Panduro%20-%20SheepMix.mp4
 #EXTINF:-1 tvg-name="Videomix:The 90s EurodanceVideomix" group-title="Valid Channels",Videomix:The 90s EurodanceVideomix
 https://ia801305.us.archive.org/30/items/DJPanduroThe90sEurodanceVideomix/DJ%20Panduro%20-%20The%2090%27s%20Eurodance%20Videomix.mp4
+#EXTINF:-1 tvg-name="Videomix:Yearmix2009" group-title="Valid Channels",Videomix:Yearmix2009
+https://ia601308.us.archive.org/12/items/DJPanduroVideoYearmix2009/DJ%20Panduro%20-%20Video%20Yearmix%202009.mp4
+#EXTINF:-1 tvg-name="Videomix:Yearmix2010" group-title="Valid Channels",Videomix:Yearmix2010
+https://ia601305.us.archive.org/3/items/DJPanduroVideoYearmix2010/DJ%20Panduro%20-%20Video%20Yearmix%202010.mp4
+#EXTINF:-1 tvg-name="Videomix:Yearmix2011" group-title="Valid Channels",Videomix:Yearmix2011
+https://ia601306.us.archive.org/7/items/DJPanduroDJCoolVideoYearmix2011/DJ%20Panduro%20%26%20DJ%20Cool%20-%20Video%20Yearmix%202011%20%28HD%20720%29.mp4
 #EXTINF:-1 tvg-name="Videomix:Yearmix2012" group-title="Valid Channels",Videomix:Yearmix2012
 https://ia801305.us.archive.org/21/items/DJPanduroVideoYearmix2012/DJ%20Panduro%20-%20Video%20Yearmix%202012.mp4
 #EXTINF:-1 tvg-name="Videomix:Yearmix2013 www.achoAPPS.com" group-title="Valid Channels",Videomix:Yearmix2013 www.achoAPPS.com
 https://ia801409.us.archive.org/35/items/DJPanduroVideoYearmix2013/DJ%20Panduro%20-%20Video%20Yearmix%202013.mp4
 #EXTINF:-1 tvg-name="Videomix:Yearmix2014" group-title="Valid Channels",Videomix:Yearmix2014
 https://ia800501.us.archive.org/34/items/DJPanduroVideoYearmix2014/DJ%20Panduro%20-%20Video%20Yearmix%202014%20%28HD%29.mp4
+#EXTINF:-1 tvg-name="Videomix:Yearmix2015 www.achoAPPS.com" group-title="Valid Channels",Videomix:Yearmix2015 www.achoAPPS.com
+https://ia600505.us.archive.org/5/items/DJPanduroVideoYearmix2015/DJ%20Panduro%20-%20Video%20Yearmix%202015.mp4
 #EXTINF:-1 tvg-name="Vision Sur" group-title="Valid Channels",Vision Sur
 https://ott1.hdlatam.tv/live_abr/VISIONSUR/playlist.m3u8
 #EXTINF:-1 tvg-name="Viva TV" group-title="Valid Channels",Viva TV
@@ -1501,8 +1529,6 @@ http://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="[法国]TV7 Colmar" group-title="Valid Channels",[法国]TV7 Colmar
 http://tv7.hdr-tv.com:1935/live/tv7/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="[法国]viàMoselleTV (720p)" group-title="Valid Channels",[法国]viàMoselleTV (720p)
-https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="[波兰]TV Kujawy" group-title="Valid Channels",[波兰]TV Kujawy
 http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
 #EXTINF:-1 tvg-name="[波兰]TV Torun HD (1080p)" group-title="Valid Channels",[波兰]TV Torun HD (1080p)
@@ -1723,8 +1749,6 @@ http://5940924978228.streamlock.net:1935/8009/8009/playlist.m3u8
 https://5940924978228.streamlock.net/8009/8009/master.m3u8
 #EXTINF:-1 tvg-name="[西班牙]RTV Vida" group-title="Valid Channels",[西班牙]RTV Vida
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
-#EXTINF:-1 tvg-name="[西班牙]TRECE" group-title="Valid Channels",[西班牙]TRECE
-https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="[西班牙]Trece TV" group-title="Valid Channels",[西班牙]Trece TV
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8
 #EXTINF:-1 tvg-name="[赤道几内亚]TVGE" group-title="Valid Channels",[赤道几内亚]TVGE
@@ -1791,8 +1815,6 @@ https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
 https://live.matele.be/hls/live.m3u8
 #EXTINF:-1 tvg-name="|BE|No Télé" group-title="Valid Channels",|BE|No Télé
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/master.m3u8
-#EXTINF:-1 tvg-name="|CA|Canal de l'Assemblée Nationale (Québec)" group-title="Valid Channels",|CA|Canal de l'Assemblée Nationale (Québec)
-https://cdn3.wowza.com/5/SVEySlNEQ0FOWXlS/diffusion/canal17/playlist.m3u8
 #EXTINF:-1 tvg-name="|CH|Canal 9" group-title="Valid Channels",|CH|Canal 9
 http://livehd.vedge.infomaniak.com/livecast/livehd/manifest.m3u8
 #EXTINF:-1 tvg-name="|CH|Canal Alpha [Jura]" group-title="Valid Channels",|CH|Canal Alpha [Jura]
@@ -1821,14 +1843,10 @@ https://live.creacast.com/canallocalgrosblie-ch1/smil:canallocalgrosblie-ch1.smi
 https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
 #EXTINF:-1 tvg-name="|FR|DCM TV" group-title="Valid Channels",|FR|DCM TV
 https://vdo.pro-fhi.net:3060/stream/play.m3u8
-#EXTINF:-1 tvg-name="|FR|IL TV" group-title="Valid Channels",|FR|IL TV
-https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="|FR|Le Figaro TV [IdF]" group-title="Valid Channels",|FR|Le Figaro TV [IdF]
 https://static.lefigaro.fr/secom/tnt.m3u8
 #EXTINF:-1 tvg-name="|FR|Ma Télé" group-title="Valid Channels",|FR|Ma Télé
 https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
-#EXTINF:-1 tvg-name="|FR|Mirabelle TV" group-title="Valid Channels",|FR|Mirabelle TV
-https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="|FR|TV Tours-Val-de-Loire" group-title="Valid Channels",|FR|TV Tours-Val-de-Loire
 https://lives.digiteka.com/stream/920f083a-9e61-4c09-9bc2-bdb664063aa9/index.m3u8
 #EXTINF:-1 tvg-name="|FR|TV3V" group-title="Valid Channels",|FR|TV3V
@@ -1929,6 +1947,8 @@ http://112.123.243.37:50085/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid
 http://112.123.243.37:50085/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="大连道" group-title="Valid Channels",大连道
 http://traffic.jbh.tjbh.com/live/dld.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="天津卫视" group-title="Valid Channels",天津卫视
+http://153.0.171.163:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="宁夏卫视" group-title="Valid Channels",宁夏卫视
 http://112.123.243.37:50085/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="山东卫视" group-title="Valid Channels",山东卫视
